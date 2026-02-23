@@ -1,0 +1,21 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "`npm install`",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brezzus/petpet.git"
+  },
+  "keywords": [],
+  "author": "Cauã",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Brezzus/petpet/issues"
+  },
+  "homepage": "https://github.com/Brezzus/petpet#readme"
+}
